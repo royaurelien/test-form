@@ -1,0 +1,1 @@
+- Rewrite request.render when it fails copy data-snippetHTMLOld to data-snippetHTML for all elements with class s_html or set blank content
